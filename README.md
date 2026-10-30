@@ -24,3 +24,4 @@ Python, TypeScript, Swift/SwiftUI, FastAPI, Next.js, PostgreSQL, Docker, GitHub 
 ## Contact
 
 vks151109@gmail.com
+k.vozianovv@gmail.com
